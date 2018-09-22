@@ -1,4 +1,4 @@
-# PiButtefly: Provably Secure Onion Routing
+# PiButterfly: Provably Secure Onion Routing
 
 ## Research
 Abstract: There have been many onion routing protocols that have either been provably secure or very efficient. We have protocol PiButterfly provided by faculty mentors, which is provably secure. I have programmed and implemented this security protocol exactly how it would be run and plotted the data. We simulated the protocol with different parameters so see things such as scalability, practicality, and efficiency. We closely analyzed what parameters you could forgo for higher security(latency, space, redundancy) and what you don’t have to forgo. We compared the status quo to our own protocol and showed that much efficiency wasn't given up for provably secure results. PiButterfly is one of the only security protocols that are statistically private from the active adversary, has low communication complexity, is fault tolerant and shown by implementation/results, is practical.
